@@ -1,1 +1,1 @@
-# Aplikas Deteksi Bahasa Isyarat (gerakIn)
+# Aplikasi Deteksi Bahasa Isyarat (gerakIn)
