@@ -1,4 +1,4 @@
-# gerakin_bach3
+# Aplikas Deteksi Bahasa Isyarat (gerakIn)
 
 A new Flutter project.
 
